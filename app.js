@@ -13,4 +13,11 @@
   const intialNumber = [1 , 2 , 3]
   const finalNumber = [...intialNumber, 4 , 5 , 6]
 
-  console.log(finalNumber);
+ // console.log(finalNumber);
+  
+ 
+ let carName = 'Land Cruiser V8';
+
+  let carStatement = `${carName} is my Favourite car`;
+
+  console.log(carStatement)
